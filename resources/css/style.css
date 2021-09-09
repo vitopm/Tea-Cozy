@@ -58,7 +58,7 @@ li a{
 }
 
 .banner{
-    background-image: url("/resources/images/img-mission-background.jpg");
+    background-image: url("Tea-Cozy/resources/images/img-mission-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
